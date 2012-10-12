@@ -1,0 +1,4 @@
+-I/home/james/tooling/llvm/include
+-I/home/james/tooling/llvm/tools/clang/include
+-I/home/james/tooling/llvm-build/tools/clang/include
+-include-pch /home/james/tooling/src/pch.pch
